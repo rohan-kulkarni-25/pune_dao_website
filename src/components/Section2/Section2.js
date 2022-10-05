@@ -3,7 +3,7 @@ import Section2_Card from './Section2_Card'
 
 export default function Section2() {
   return (
-    <div className='flex justify-around pt-12 pb-12 sm:flex-col'>
+    <div className='flex justify-around pt-12 pb-12 sm:flex-col bg-dodger-blue-600'>
       <div className="h-fit w-1/4 flex flex-col gap-4 m-12 bg-dodger-blue-100 p-4 rounded-xl sm:w-fit">
       <p className="text-2xl font-mono font-semibold">GET INVOLVED</p>
       <p className="text-justify font-mono">
