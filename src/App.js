@@ -26,6 +26,8 @@ function App() {
       <Section3 />
       <Section4 />
       <Section5 />
+      <a href="https://bio.link/punedao"><img className="absolute bottom-8 right-8 w-24 h-24" src="https://i.ibb.co/Ch81MxH/Untitled-design-1.png"/></a>
+      
     </div>
   );
 }

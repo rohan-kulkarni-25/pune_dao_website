@@ -12,13 +12,20 @@ export default function Section4() {
           Our goal is simple to grow Web3 to 1 billion users by 2025
         </p>
       </div>
-      <div className="flex justify-between bg-dodger-blue-100 p-12 rounded-lg mt-12 sm:flex-col ">
+      <div className="flex flex-col justify-between bg-dodger-blue-100 p-12 rounded-lg mt-12 sm:flex-col ">
+        <div className="flex justify-between bg-dodger-blue-100 p-12 rounded-lg mt-12 sm:flex-col">
         <p className="font-mono text-3xl sm:mb-8">Mission</p>
         <p className="w-1/2 text-justify text-lg font-mono sm:w-fit">
-          Web3 will dramatically change the lives of people all over the world.
-          It allows for lower costs, better coordination and owenership,and
-          novel use cases.
+        We want to be the next cryptohub in India 
         </p>
+        </div>
+        <div className="flex justify-between bg-dodger-blue-100 p-12 rounded-lg mt-12 sm:flex-col">
+        <p className="font-mono text-3xl sm:mb-8">Vision</p>
+        <p className="w-1/2 text-justify text-lg font-mono sm:w-fit">
+        To help facilitate the Pune ecosystem with opportunities and the necessary help required to build Web3 products
+        </p>
+        </div>
+  
       </div>
       <div className="flex justify-between bg-dodger-blue-100 p-12 rounded-lg mt-12 sm:flex-col sm:gap-8">
         <p className="font-mono text-3xl">Team</p>
