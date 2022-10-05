@@ -8,7 +8,7 @@ import Section5 from "./components/Section5/Section5";
 import ReactGA from "react-ga";
 import React, { useEffect} from 'react'
 import UseAnalyticsEventTracker from "./useAnalyticsEventTracker";
-const TRACKING_ID = "UA-XXXXX-X"; // OUR_TRACKING_ID
+const TRACKING_ID = "G-TE9BQY34KL"; // OUR_TRACKING_ID
 
 ReactGA.initialize(TRACKING_ID);
 function App() {
